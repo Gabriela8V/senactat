@@ -53,7 +53,7 @@
 # Gerando os par de chaves Pública/Privadas utilizando o GNU/Linux
 # Linux Mint Terminal: Ctrl+Alt+T
 #	ssh-keygen
-#		Enter file in which to save the key (/home/vaamonde/.ssh/id_rsa): /home/vaamonde/.ssh/vaamonde <Enter>
+#		Enter file in which to save the key (/home/vaamomde/.ssh/id_rsa): /home/vaamonde/.ssh/vaamonde <Enter>
 #		Enter passphrase (empty for no passphrase): <Enter>
 #		Enter same passphrase again: <Enter>
 #	ssh-copy-id vaamonde@ssh.pti.intra

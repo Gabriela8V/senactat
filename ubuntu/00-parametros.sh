@@ -306,7 +306,7 @@ PORTTFTP="69"
 USERMYSQL="root"
 #
 # Variáveis da senha e confirmação da senha do usuário Root do Mysql 
-SENHAMYSQL="pti@2018"
+SENHAMYSQL="123@senac"
 AGAIN=$SENHAMYSQL
 #
 # Variáveis de configuração e liberação da conexão remota para o usuário Root do MySQL
@@ -331,7 +331,7 @@ APP_PASS=$SENHAMYSQL
 WEBSERVER="apache2"
 #
 # Variável das dependências do laço de loop do LAMP Server
-LAMPDEP="bind9 bind9utils"
+LAMPDEP=""
 #
 # Variável de instalação do serviço de rede LAMP Server 
 # opção do caractere: ^ (circunflexo): expressão regular referente ao Tasksel, o uso do caractere ^ 
